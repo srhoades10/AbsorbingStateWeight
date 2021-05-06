@@ -7,7 +7,7 @@
         in, no one jumps from underweight to obese in one year)
 
     .NLSY97 contains all variable IDs, and demographicBMIVars are a subset of 
-    those variables on demographic and height/weight ,pulled from the Investigator
+    those variables on demographic and height/weight, pulled from the Investigator
     website (https://www.nlsinfo.org/investigator/pages/search.jsp). This script
     collects those variables, and trims a subset of the full NLSY97 dataset to a
     manageable size for further analysis. 
